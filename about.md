@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Christina Holland.  I teach high school math in Wilmington, NC.  I live with my husband, four children, one dog, two rabbits, two guinea pigs, and one turtle. 
+My name is **Christina Holland**.  I teach high school math in Wilmington, NC.  I live with my husband, four children, one dog, two rabbits, two guinea pigs, and one turtle. 
 
 ### More Information
 
