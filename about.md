@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Christina Holland.  I teach high school math in Wilmington, NC.  I live with my husband, four children, one dog, two rabbits, two guinea pigs, and one turtle. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am seeking a masters degree in statistics.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[cmholla7@ncsu.edu](mailto:cmholla7@ncsu.edu)
